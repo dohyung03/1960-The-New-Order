@@ -12,6 +12,7 @@
 벨기에와 네덜란드 그리고 프랑스의 알자스-로렌과 센강,마른강까지 독일에 넘기고 리옹과 튀니지 지역과 
 카이로에서 200km 떨어진 지역을 이탈리아에게 유고슬로비아와 그리스는 불가리아, 이탈리아, 독일, 루마니아에게 준 후에야 평화를 찾았다.
 
+
 On February 2, 1942, Hackenkreuz fluttered atop the Kremlin.
 The Battle of Moscow was a victory for Hitler. Hitler continued his advance to the east, 
 but the offensive was blocked in Leningrad and Crimea. Hitler's officers decide that the end of the offensive has come and ask 
