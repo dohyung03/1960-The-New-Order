@@ -1,4 +1,13 @@
-# 게임 스토리
+# 1960년 세계는 불안정합니다.
+__하나의 불꽃이 전 지구를 태울 것 입니다.__
+> 2차대전은 추축국과 연합국간의 균형으로 마무리 되는 듯 보였습니다.   
+> 그러나 그 실상은 조금 달랐습니다.       
+> 영국과 프랑스는 빠르게 붕괴되었고 유럽에 자유따위는 없어졌습니다.
+> 전 세계가 혼란에 빠져있는 가운데 당신의 작은 선택이 지구를 뒤흔들지도 모릅니다.
+
+
+
+- 게임 요약 스토리
 
 1942년 2월 2일 크렘린 궁 꼭대기에 하켄크로이츠가 펄럭였다.
 모스크바 전투는 히틀러의 승리였다.
@@ -22,7 +31,18 @@
 수용소에서 탈출하는 탈출 스토리
 또한 독일이 아닌 다른 추축국에서 살아가는 일본 스토리와 이탈리아 스토리도 추가될 예정입니다.
 
-  - game story
+
+
+
+# 1960 The world is unstable.
+__One spark will burn the whole earth.__
+> World War II seemed to end with a balance between the Axis and the Allies.
+> But the reality was a little different.
+> England and France quickly collapsed, and Europe lost its freedom.
+> With the world in chaos, your small choices may shake the planet.
+
+
+  - game summary story
 
 On February 2, 1942, Hackenkreuz fluttered atop the Kremlin.
 The Battle of Moscow was a victory for Hitler. Hitler continued his advance to the east, 
